@@ -1,4 +1,4 @@
-# Source Layout - Code Analyzer
+# Source Layout - Python Code Node Order Analyzer
 
 A tool to check your Python code layout (order of private/public class member etc).
 
